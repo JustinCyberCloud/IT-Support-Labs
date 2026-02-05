@@ -1,0 +1,16 @@
+[
+    {
+        "ticket_id": 1,
+        "title": "Printer not working",
+        "description": "Officer printer won't print",
+        "priority": "High",
+        "category": "Hardware",
+        "status": "Open",
+        "requester": "Robert James",
+        "assigned_to": null,
+        "created_at": "2026-02-04T22:43:11.737119",
+        "updated_at": "2026-02-04T22:43:11.737119",
+        "resolution": null,
+        "notes": []
+    }
+]
