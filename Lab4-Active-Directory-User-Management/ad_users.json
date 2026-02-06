@@ -1,0 +1,15 @@
+{
+    "Username":  "jsmith",
+    "FirstName":  "john",
+    "LastName":  "smith",
+    "FullName":  "john smith",
+    "Email":  "jmisth@company.com",
+    "Department":  "IT",
+    "Title":  "Help Desk Technician",
+    "Status":  "Enabled",
+    "CreatedDate":  "2026-02-06 16:03:42",
+    "LastModified":  "2026-02-06 16:03:42",
+    "Groups":  [
+
+               ]
+}
