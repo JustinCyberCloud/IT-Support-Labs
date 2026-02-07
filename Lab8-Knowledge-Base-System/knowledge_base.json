@@ -1,0 +1,18 @@
+[
+    {
+        "article_id": "KB001",
+        "title": "User cannot access email",
+        "category": "Email",
+        "problem": "User Reports Outlook won't open and shows error message",
+        "solution": "Restart Outlook in safe mode, repair Office installation, recreate Outlook profile",
+        "tags": [
+            "outlook",
+            "email",
+            "error"
+        ],
+        "created_date": "2026-02-07 07:20:45",
+        "views": 0,
+        "ratings": [],
+        "avg_rating": 0
+    }
+]
