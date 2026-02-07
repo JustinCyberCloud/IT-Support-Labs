@@ -31,3 +31,7 @@ These labs are intended to demonstrate job-ready skills for entry-level IT Suppo
 
 - **Lab 8: Knowledge Base System with Search** (Python)  
   Documents IT solutions with searchable articles and usage tracking.
+
+## Detailed Lab Documentation
+
+Each lab includes its own directory with detailed documentation, code examples, and usage instructions.
