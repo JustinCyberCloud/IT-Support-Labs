@@ -1,0 +1,13 @@
+[
+    {
+        "display_name": "Test Server",
+        "hostname": "192.168.1.100",
+        "username": "adminmane",
+        "port": "3389",
+        "tags": [
+            "test"
+        ],
+        "notes": "test connection",
+        "created": "2026-02-07 06:48:35"
+    }
+]
