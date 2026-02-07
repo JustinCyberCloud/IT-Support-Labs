@@ -1,0 +1,9 @@
+[
+    {
+        "timestamp": "2026-02-07 07:09:44",
+        "action": "ONBOARDING",
+        "employee": "Jim Roberts",
+        "details": "Employee onboarded - ID: EMP001",
+        "performed_by": "IT Admin"
+    }
+]

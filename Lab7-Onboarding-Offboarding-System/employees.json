@@ -1,0 +1,33 @@
+[
+    {
+        "employee_id": "EMP001",
+        "first_name": "Jim",
+        "last_name": "Roberts",
+        "full_name": "Jim Roberts",
+        "email": "JROBlow@company.com",
+        "department": "IT",
+        "title": "Help Desk Support",
+        "manager": "Mary Orero",
+        "start_date": "2024-08-02",
+        "status": "Active",
+        "accounts": {
+            "active_directory": "jim.roberts",
+            "email": "JROBlow@company.com",
+            "vpn": "jimroberts",
+            "status": "Active"
+        },
+        "assets": [
+            {
+                "asset_type": "Laptop",
+                "serial_number": "SN20260207070936",
+                "assigned_to": "EMP001",
+                "assigned_date": "2026-02-07",
+                "status": "Assigned"
+            }
+        ],
+        "access_groups": [
+            "Email & Calendar"
+        ],
+        "onboarded_date": "2026-02-07 07:09:44"
+    }
+]
